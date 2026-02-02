@@ -1,0 +1,15 @@
+meta {
+  name: GETdirectors/{id}
+  type: http
+  seq: 8
+}
+
+get {
+  url: http://localhost:8000/directors/1
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}

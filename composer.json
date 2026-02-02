@@ -1,0 +1,10 @@
+{
+    "name": "films/php-rest-api",
+    "description": "Films adatbázis API PHP-ban",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
