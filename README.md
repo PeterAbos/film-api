@@ -1,4 +1,8 @@
-Film-api
+<h1>Film-api</h1>
+<p>Ez a 'films' adatbázis api-ja.</p>
+<p>Az adatbázist a következő fájlban találja: films.sql</p>
+<hr>
+<h2>Végpontok</h2>
 <table>
   <tr>
     <th>URL HTTP</th>
